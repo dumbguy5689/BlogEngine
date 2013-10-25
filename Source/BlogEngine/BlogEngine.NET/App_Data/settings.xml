@@ -3,8 +3,8 @@
   <displayratingsonrecentposts>True</displayratingsonrecentposts>
   <enablecontactattachments>True</enablecontactattachments>
   <showpostnavigation>True</showpostnavigation>
-  <mobiletheme>JQ-Mobile</mobiletheme>
-  <enablehttpcompression>False</enablehttpcompression>
+  <mobiletheme>Mobile</mobiletheme>
+  <enablehttpcompression>True</enablehttpcompression>
   <disqusaddcommentstopages>False</disqusaddcommentstopages>
   <htmlheader />
   <theme>Standard</theme>
@@ -19,12 +19,12 @@
   <showdescriptioninpostlistforpostsbytagorcategory>False</showdescriptioninpostlistforpostsbytagorcategory>
   <commentblacklistcount>2</commentblacklistcount>
   <iscocommentenabled>False</iscocommentenabled>
-  <compresswebresource>False</compresswebresource>
+  <compresswebresource>True</compresswebresource>
   <addiptowhitelistfilteronapproval>False</addiptowhitelistfilteronapproval>
   <themecookiename>theme</themecookiename>
   <remotefiledownloadtimeout>30000</remotefiledownloadtimeout>
   <trustauthenticatedusers>True</trustauthenticatedusers>
-  <enablecountryincomments>False</enablecountryincomments>
+  <enablecountryincomments>True</enablecountryincomments>
   <contactformmessage>&lt;p&gt;I'll answer the mail as soon as I can.&lt;/p&gt;</contactformmessage>
   <searchbuttontext>Search</searchbuttontext>
   <showincludecommentsoption>False</showincludecommentsoption>
@@ -40,15 +40,15 @@
   <enableopensearch>True</enableopensearch>
   <dayscommentsareenabled>0</dayscommentsareenabled>
   <useblognameinpagetitles>True</useblognameinpagetitles>
-  <removeextensionsfromurls>True</removeextensionsfromurls>
+  <removeextensionsfromurls>False</removeextensionsfromurls>
   <smtpusername>username</smtpusername>
   <enablepasswordreset>True</enablepasswordreset>
-  <enableerrorlogging>True</enableerrorlogging>
+  <enableerrorlogging>False</enableerrorlogging>
   <alternatefeedurl />
   <email>name@example.com</email>
   <enabletrackbacksend>True</enabletrackbacksend>
   <commentwhitelistcount>1</commentwhitelistcount>
-  <allowservertodownloadremotefiles>True</allowservertodownloadremotefiles>
+  <allowservertodownloadremotefiles>False</allowservertodownloadremotefiles>
   <enablereferrertracking>False</enablereferrertracking>
   <disquswebsitename />
   <handlewwwsubdomain />
@@ -64,16 +64,16 @@
   <geocodinglatitude>0</geocodinglatitude>
   <numberofreferrerdays>1</numberofreferrerdays>
   <israzortheme>False</israzortheme>
-  <thumbnailserviceapi>http://www.robothumb.com/src/?url={0}</thumbnailserviceapi>
+  <thumbnailserviceapi />
   <iscommentsenabled>True</iscommentsenabled>
   <searchdefaulttext>Enter search term or APML url</searchdefaulttext>
   <smtpserverport>25</smtpserverport>
   <smtppassword>password</smtppassword>
   <blockauthoroncommentdelete>False</blockauthoroncommentdelete>
   <enablecommentsmoderation>True</enablecommentsmoderation>
-  <timestamppostlinks>False</timestamppostlinks>
+  <timestamppostlinks>True</timestamppostlinks>
   <avatar>wavatar</avatar>
-  <postsperfeed>3</postsperfeed>
+  <postsperfeed>10</postsperfeed>
   <addiptoblacklistfilteronrejection>False</addiptoblacklistfilteronrejection>
   <timezone>0</timezone>
   <enableoptimization>False</enableoptimization>
@@ -81,7 +81,7 @@
   <moderationtype>Auto</moderationtype>
   <enablepingbackreceive>True</enablepingbackreceive>
   <showlivepreview>True</showlivepreview>
-  <enablequicknotes>True</enablequicknotes>
+  <enablequicknotes>False</enablequicknotes>
   <galleryfeedurl>http://dnbegallery.org/feed/FeedService.svc</galleryfeedurl>
   <searchcommentlabeltext>Include comments in search</searchcommentlabeltext>
   <displaycommentsonrecentposts>True</displaycommentsonrecentposts>
@@ -98,7 +98,7 @@
   <selfregistrationinitialrole>Select</selfregistrationinitialrole>
   <enableselfregistration>False</enableselfregistration>
   <blogrollupdateminutes>60</blogrollupdateminutes>
-  <securityvalidationkey>ede308e723ae42aab289b04350133355accaa0f0da9743e7a8529a0cbbf5bceee5bcafc4eac741f68d2d63d80e21bf8e</securityvalidationkey>
+  <securityvalidationkey>b6b1b699cc3b4e3a86b39891f020d30f100bac7ce49b4e6a9b8b5df65003bfcedf950ec46f064006b9a8c9aac2b90100</securityvalidationkey>
   <requiresslmetaweblogapi>False</requiresslmetaweblogapi>
   <enablerating>True</enablerating>
   <enablecommentsearch>True</enablecommentsearch>
